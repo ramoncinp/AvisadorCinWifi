@@ -8,7 +8,7 @@
   Programa: Cliente Http
   //TODO: El cliente :o
 */
-
+static const char* ssid="AP_DISENO";
 void setup() {
   // put your setup code here, to run once:
 
